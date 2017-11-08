@@ -1,0 +1,6 @@
+F:\MK\Grafy\Graphs\Graphs\bin\Debug\Graphs.exe.config
+F:\MK\Grafy\Graphs\Graphs\bin\Debug\Graphs.exe
+F:\MK\Grafy\Graphs\Graphs\bin\Debug\Graphs.pdb
+F:\MK\Grafy\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+F:\MK\Grafy\Graphs\Graphs\obj\Debug\Graphs.exe
+F:\MK\Grafy\Graphs\Graphs\obj\Debug\Graphs.pdb

@@ -1,0 +1,17 @@
+F:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe.config
+F:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe
+F:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.pdb
+F:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.exe
+F:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.pdb
+G:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe.config
+G:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.exe
+G:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.pdb
+G:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe
+G:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.pdb
+G:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.csprojResolveAssemblyReference.cache
+E:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe.config
+E:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.exe
+E:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.pdb
+E:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.exe
+E:\MK\Grafy\Graphs\Graph1\bin\Debug\Graph1.pdb
+E:\MK\Grafy\Graphs\Graph1\obj\Debug\Graph1.csprojResolveAssemblyReference.cache
